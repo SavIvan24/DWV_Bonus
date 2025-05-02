@@ -10,7 +10,7 @@
 
 Result should look like this:  
 
-![Example Result](image.png){width="6.491666666666666in" height="2.9583333333333335in"}  
+![Example Result](image.png)
 
 ## Notes
 
